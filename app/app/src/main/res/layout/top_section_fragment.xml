@@ -8,7 +8,8 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
-        android:width="300dp" />
+        android:width="300dp"
+        android:textColorLink="#000" />
 
     <EditText
         android:id="@+id/bottomTextInput"
@@ -17,7 +18,8 @@
         android:layout_below="@id/topTextInput"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
-        android:width="300dp" />
+        android:width="300dp"
+        android:textColorLink="#000" />
 
     <Button
         android:id="@+id/button"

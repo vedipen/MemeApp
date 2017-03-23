@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/meme1">
+
+    <EditText
+        android:id="@+id/topMemeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent"
+        android:contextClickable="false"
+        android:cursorVisible="false"
+        android:ems="10"
+        android:gravity="center_horizontal"
+        android:inputType="none"
+        android:linksClickable="false"
+        android:longClickable="false"
+        android:text="@string/top_text"
+        android:textColor="#000"
+        android:textColorLink="@color/colorPrimary"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/bottomMemeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="15dp"
+        android:background="@android:color/transparent"
+        android:contextClickable="false"
+        android:cursorVisible="false"
+        android:ems="10"
+        android:gravity="center_horizontal"
+        android:inputType="none"
+        android:linksClickable="false"
+        android:longClickable="false"
+        android:text="@string/bottom_text"
+        android:textColor="#000"
+        android:textColorLink="@color/colorPrimary"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
