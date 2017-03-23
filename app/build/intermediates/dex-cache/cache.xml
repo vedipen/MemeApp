@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbdf6172e1625b382621e0f71853a069fbbffe47">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5ee2bf15bd3d3aedffcee37e7d86157ee200bca4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/.android/build-cache/9dc23433ab77dc8c969af8b7c88767b205fcca89/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/classes_1f97bf51ea3c81fe3b2bfce915c7b23de5494b4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/.android/build-cache/feb2882c5aadf9753c58a8a71d64776bd8b44d58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/classes_e767b82628d4564a2943056c9ca357d6ccfc440b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/.android/build-cache/96833ecdf94b18d95d79f6dc51464c92f11d0a1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/classes_9b1f8023d76a0ffef05f2c8ab96b4e62aefead95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/.android/build-cache/ec32b9c442f0367347eee6c8769e5cd7855c1e64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/classes_ada5b194849f617f98f7ef5e20c74c90e3be94e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/.android/build-cache/15a468d51682a6366d002159ba1517e3479255fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/classes_b65aa68cb45300b721ac50642a5dfa7212054d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_22982d4066f4562373bd60c59930e5565ded8a30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/.android/build-cache/deda6fd770bdde9873bbcef7eb7b44df55fe3406/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/classes_995cdf14f0f77d8943b9373679965a5366055ebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/.android/build-cache/472939db1bb362d2f89a4ff69f244e22900ea71e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/classes_35b6eb78d4a497e9ebf32ddff662e5632d55dc8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/.android/build-cache/4c6de481fce85b01ad5dc766eae056c459928e5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/classes_e0ffcc31ee76dc9311949588bd8bba493cb4c0d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_75fde236bf3ed9b369a6debcaa465dc81a53af3b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e4af3f5b272962ce832b55cab80384a5d549464b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/.android/build-cache/c4175d1ebd3ef8cf3e5cc4ca5ffdf1a0419636f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/classes_701e25133aa2f928e72280af73bcb94c58817b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vedipen/.android/build-cache/fb97d0047d23b1e7733e15632a4576d3c8c19145/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/vedipen/Dipen/MemeApp/app/app/build/intermediates/pre-dexed/debug/classes_17f330b39c655fa7ecbbbf2d99987e819c222111.jar" />
+    </item>
+
+</items>
