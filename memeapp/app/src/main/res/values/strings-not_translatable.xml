@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- General -->
+    <string name="app_fileprovider" translatable="false">vedipen.memeapp.fileprovider</string>
+    <string name="app_www_source" translatable="false"></string>
+    ß
+
+    <string name="app_description" translatable="false">Memes Memes, Everywhere.</string>
+    <!--<string name="main__ready_to_memetastic" translatable="false">Ready to MemeTastic? Try it now!\n%1$s</string>-->
+
+    <!-- pictures -->
+    <string name="cached_picture_filename" translatable="false">workingPicture.jpg</string>
+    <string name="dot_thumbnails" translatable="false">.thumbnails</string>
+
+    <string name="app_version_v" translatable="false">App Version  v%1$s</string>
+    <string name="ok" translatable="false">@android:string/ok</string>
+
+
+    <!-- Pref keys -->
+    <string name="pref_key__render_quality" translatable="false">pref_key__render_quality</string>
+    <string name="pref_key__last_selected_font" translatable="false">pref_key__last_selected_font</string>
+    <string name="pref_key__memes_favourites" translatable="false">pref_key__memes_favourites</string>
+    <string name="pref_key__last_selected_category" translatable="false">pref_key__last_selected_category</string>
+    <string name="pref_key__grid_column_count_portrait" translatable="false">pref_key__grid_column_count_portrait</string>
+    <string name="pref_key__grid_column_count_landscape" translatable="false">pref_key__grid_column_count_landscape</string>
+    <string name="pref_key__app_first_start" translatable="false">pref_key__app_first_run</string>
+    <string name="pref_key__app_first_start_current_version" translatable="false">pref_key__app_current_versionfirst_run</string>
+
+</resources>
